@@ -1,7 +1,7 @@
 # Hello Soul
 
 ## About the App
-In this fast paced world where everyone just has so much workload, they forget about their mental health and they themselves don’t realise that they are stressed out. It is because of this negligence that we plan to make an app. The targets we want to achieve is that the app must be a multidisciplinary app which will allow users to keep a track of their mental health and in turn help us to create a mentally fit society.  Being locked up in their homes due to COVID-19 pandemic , many people have become stressed due to a variety of reasons.  This was the main thing which inspired us to come up with this app by the name of<b><i> Namaste Soul (Meaning “Hello Soul”) .</i></b>  
+In this fast paced world where everyone just has so much workload, they forget about their mental health and they themselves don’t realise that they are stressed out. It is because of this negligence that we plan to make an app. The targets we want to achieve is that the app must be a multidisciplinary app which will allow users to keep a track of their mental health and in turn help us to create a mentally fit society.  Being locked up in their homes due to COVID-19 pandemic , many people have become stressed due to a variety of reasons.  This was the main thing which inspired us to come up with this app by the name of<b><i>  “Hello Soul .</i></b>  
 
 ## Features of the App
 
