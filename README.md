@@ -18,7 +18,7 @@ The features include :
 
 ## How To Use this App:
 
-To use this app download and install the apk file in you android smartphone. [Click Here](https://github.com/sahajoydeep2002/Hello-Soul/tree/main/APK%20FILE)
+To use this app download and install the apk file in you android smartphone. [Click Here](https://github.com/sahajoydeep2002/Hello-Soul/raw/main/APK%20FILE/Hello%20Soul)
 
 <hr>
 
